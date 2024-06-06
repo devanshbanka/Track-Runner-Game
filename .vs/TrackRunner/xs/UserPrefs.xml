@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{4799324A-CCC8-AF1C-3FEE-2474A8A37E37}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SoundManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="21" Column="28" />
+      <File FileName="Assets/Scripts/Coin.cs" />
+      <File FileName="Assets/Scripts/GroundTile.cs" Line="92" Column="24" />
+      <File FileName="Assets/Scripts/GroundSpawner.cs" />
+      <File FileName="Assets/Scripts/PlayerController.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/OrientationManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a5ebf4f9-27ff-4149-b9aa-cd2a19c4b8cc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
